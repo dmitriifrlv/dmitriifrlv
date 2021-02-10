@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a full stack web developer passionate about design, UI/UX. 
-I use mainly React and Gatsby for front end, express and PSQL for back end. I'm a lifelong learner and constantly work on smth.
+I use mainly React and Gatsby for front end, express and PSQL for back end. I'm a lifelong learner and constantly work on improving my existing skills and learning new technologies.
 
 <!--
 **dmitriifrlv/dmitriifrlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
