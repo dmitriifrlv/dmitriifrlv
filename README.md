@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a full stack web developer passionate about creating fast and cool looking user interfaces. 
+
 I use mainly React and Gatsby for front end, express and PSQL for back end. I'm a lifelong learner and constantly work on improving my existing skills, learning relevant technologies and mastering fundamentals of computer science.
 
 <!--
